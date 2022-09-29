@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\Predicting Colors\Predicting Colors\bin\Debug\net6.0-windows\Predicting Colors.exe
+C:\Users\User\source\repos\Predicting Colors\Predicting Colors\bin\Debug\net6.0-windows\Predicting Colors.deps.json
+C:\Users\User\source\repos\Predicting Colors\Predicting Colors\bin\Debug\net6.0-windows\Predicting Colors.runtimeconfig.json
+C:\Users\User\source\repos\Predicting Colors\Predicting Colors\bin\Debug\net6.0-windows\Predicting Colors.dll
+C:\Users\User\source\repos\Predicting Colors\Predicting Colors\bin\Debug\net6.0-windows\Predicting Colors.pdb
+C:\Users\User\source\repos\Predicting Colors\Predicting Colors\obj\Debug\net6.0-windows\Predicting Colors.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Predicting Colors\Predicting Colors\obj\Debug\net6.0-windows\Predicting_Colors.Form1.resources
+C:\Users\User\source\repos\Predicting Colors\Predicting Colors\obj\Debug\net6.0-windows\Predicting_Colors.Form2.resources
+C:\Users\User\source\repos\Predicting Colors\Predicting Colors\obj\Debug\net6.0-windows\Predicting Colors.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Predicting Colors\Predicting Colors\obj\Debug\net6.0-windows\Predicting Colors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Predicting Colors\Predicting Colors\obj\Debug\net6.0-windows\Predicting Colors.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Predicting Colors\Predicting Colors\obj\Debug\net6.0-windows\Predicting Colors.AssemblyInfo.cs
+C:\Users\User\source\repos\Predicting Colors\Predicting Colors\obj\Debug\net6.0-windows\Predicting Colors.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Predicting Colors\Predicting Colors\obj\Debug\net6.0-windows\Predicting Colors.dll
+C:\Users\User\source\repos\Predicting Colors\Predicting Colors\obj\Debug\net6.0-windows\refint\Predicting Colors.dll
+C:\Users\User\source\repos\Predicting Colors\Predicting Colors\obj\Debug\net6.0-windows\Predicting Colors.pdb
+C:\Users\User\source\repos\Predicting Colors\Predicting Colors\obj\Debug\net6.0-windows\Predicting Colors.genruntimeconfig.cache
+C:\Users\User\source\repos\Predicting Colors\Predicting Colors\obj\Debug\net6.0-windows\ref\Predicting Colors.dll
